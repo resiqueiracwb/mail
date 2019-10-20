@@ -1,0 +1,3 @@
+br\com\vivo\james\api\JamesController.class
+br\com\vivo\james\api\SendEmailController.class
+br\com\vivo\james\JamesApplication.class
